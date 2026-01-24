@@ -7,8 +7,12 @@ def minus(a,b):
 def multiply(a,b):
     return a*b
 
+def devide(a,b):
+    return a/b
+
 
 print(minus(2,3))
 print(plus(2,3))
 print(multiply(2,3))
+print(devide(2,3))
 
